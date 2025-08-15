@@ -51,5 +51,6 @@
     "*.{json,css,scss,html,md}": [
       "prettier --write"
     ]
-  }
+  },
+  "type": "module"
 }
